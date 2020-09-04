@@ -3,7 +3,7 @@ This is starter project for devops course
 
 ### Instruction
 Do everything that the instructor will say
-Do you the best
+Do you the best Andrey
 
 ### Training
 Do all test exesecises
