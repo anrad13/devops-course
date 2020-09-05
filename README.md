@@ -12,3 +12,4 @@ Do all test exesecises
 Do all lab works - 1
 The task - Branching
 The task - Branching 2
+The task - Rebase local with remote git
